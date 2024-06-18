@@ -2,7 +2,7 @@
 ### Hi, I'm Nathalie!
 
 # 💫 About Me
-👀 I’m a Master's student at the University of York, specializing in Bioinformatics.<br>🌱 Alongside my studies, I am a HCPC registered Biomedical Scientist.<br>💞️ I’m eager to collaborating on innovative projects focused on biomedical and genomic education, as well as biological data analysis.
+👀 I’m a Master's student at the University of York, specializing in Bioinformatics.<br>🌱 Alongside my studies, I am a HCPC registered Biomedical Scientist.<br>💞️ I’m eager to collaborate on innovative projects focused on biomedical and genomic education, as well as biological data analysis.
 
 
 # 💻 Tech Stack
